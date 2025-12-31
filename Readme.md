@@ -1,10 +1,8 @@
-cat << 'EOF' > README.md
 # Mock Login Flow Web Application
 
 A clean and professional 3-page mock login system built using HTML, CSS, and vanilla JavaScript.  
 This project demonstrates basic authentication logic, conditional statements, DOM interaction, and client-side state management.
 
----
 
 ## Project Overview
 
@@ -13,7 +11,6 @@ Authentication is handled entirely on the client side using predefined credentia
 
 This project was created as part of an academic assignment to understand JavaScript interaction and control flow.
 
----
 
 ## Features
 
@@ -25,7 +22,6 @@ This project was created as part of an academic assignment to understand JavaScr
 - Clean, professional white-themed UI
 - Fully client-side and browser-ready
 
----
 
 ## Pages
 
@@ -33,7 +29,6 @@ This project was created as part of an academic assignment to understand JavaScr
 - dashboard.html — User Dashboard  
 - profile.html — Profile Settings  
 
----
 
 ## Technologies Used
 
@@ -41,7 +36,6 @@ This project was created as part of an academic assignment to understand JavaScr
 - CSS3  
 - JavaScript (Vanilla)
 
----
 
 ## How to Run
 
@@ -51,7 +45,6 @@ This project was created as part of an academic assignment to understand JavaScr
    Username: admin  
    Password: 1234  
 
----
 
 ## Project Structure
 
@@ -64,7 +57,6 @@ Envision/
 └── js/
     └── script.js
 
----
 
 ## Learning Outcomes
 
